@@ -1092,6 +1092,7 @@
 					"-ObjC",
 					"-lc++",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.lyndaclass.VSACReactNative;
 				PRODUCT_NAME = IntroToVSACReactNative;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1109,6 +1110,7 @@
 					"-ObjC",
 					"-lc++",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.lyndaclass.VSACReactNative;
 				PRODUCT_NAME = IntroToVSACReactNative;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
